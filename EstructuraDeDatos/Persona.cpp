@@ -51,7 +51,7 @@ Persona Persona::nuevaPersona()
 
     cout << "Numero de cedula: ";
     cin >> _CI;
-    //_CI = validarCedula(_CI);
+    _CI = validarCedula(_CI);
 
     cout << "Ingrese su fecha de nacimiento.\n";
     fechaNacimiento = fechaNacimiento->ingresarFecha();
@@ -62,12 +62,12 @@ Persona Persona::nuevaPersona()
     fflush(stdin);
     cout << "Numero celular: ";
     getline(cin, _telefono);
-    // while (!esInt(_telefono)||_telefono.size()!=10)
-    // {
-    //     cout << "El dato ingresado no es valido intente nuevamente.\nNumero telefonico: ";
-    //     fflush(stdin);
-    //     getline(cin, _telefono);
-    // }
+    while (!esInt(_telefono)||_telefono.size()!=10)
+    {
+        cout << "El dato ingresado no es valido intente nuevamente.\nNumero telefonico: ";
+        fflush(stdin);
+        getline(cin, _telefono);
+    }
 
     fflush(stdin);
     cout << "Digite su sueldo: ";

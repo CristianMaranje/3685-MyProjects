@@ -113,6 +113,10 @@ void ListaCircularDoble::eliminar(long int cedula)
 
 void ListaCircularDoble::imprimir()
 {	int cont= 1;
+	if(primero == nullptr)
+	{
+		cout<<"No hay personas registradas.\n";
+	}
 	recorrer([&](Persona persona, Tabla tabla)
 	{
 		fflush(stdin);

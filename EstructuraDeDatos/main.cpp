@@ -24,7 +24,6 @@ int main()
 	Menu menu;
 	long int cedula;
 
-	archivo.leerArchivo(lista);
 
 	do
 	{
