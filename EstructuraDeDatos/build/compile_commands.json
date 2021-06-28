@@ -3,5 +3,35 @@
   "directory": "D:/u/progra/MyProjects/EstructuraDeDatos/build",
   "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ProyectoTablaAmortizacion.dir\\main.cpp.obj -c D:\\u\\progra\\MyProjects\\EstructuraDeDatos\\main.cpp",
   "file": "D:/u/progra/MyProjects/EstructuraDeDatos/main.cpp"
+},
+{
+  "directory": "D:/u/progra/MyProjects/EstructuraDeDatos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ProyectoTablaAmortizacion.dir\\ListaCircularDoble.cpp.obj -c D:\\u\\progra\\MyProjects\\EstructuraDeDatos\\ListaCircularDoble.cpp",
+  "file": "D:/u/progra/MyProjects/EstructuraDeDatos/ListaCircularDoble.cpp"
+},
+{
+  "directory": "D:/u/progra/MyProjects/EstructuraDeDatos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ProyectoTablaAmortizacion.dir\\nodo.cpp.obj -c D:\\u\\progra\\MyProjects\\EstructuraDeDatos\\nodo.cpp",
+  "file": "D:/u/progra/MyProjects/EstructuraDeDatos/nodo.cpp"
+},
+{
+  "directory": "D:/u/progra/MyProjects/EstructuraDeDatos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ProyectoTablaAmortizacion.dir\\Fecha.cpp.obj -c D:\\u\\progra\\MyProjects\\EstructuraDeDatos\\Fecha.cpp",
+  "file": "D:/u/progra/MyProjects/EstructuraDeDatos/Fecha.cpp"
+},
+{
+  "directory": "D:/u/progra/MyProjects/EstructuraDeDatos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ProyectoTablaAmortizacion.dir\\Persona.cpp.obj -c D:\\u\\progra\\MyProjects\\EstructuraDeDatos\\Persona.cpp",
+  "file": "D:/u/progra/MyProjects/EstructuraDeDatos/Persona.cpp"
+},
+{
+  "directory": "D:/u/progra/MyProjects/EstructuraDeDatos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ProyectoTablaAmortizacion.dir\\Tabla.cpp.obj -c D:\\u\\progra\\MyProjects\\EstructuraDeDatos\\Tabla.cpp",
+  "file": "D:/u/progra/MyProjects/EstructuraDeDatos/Tabla.cpp"
+},
+{
+  "directory": "D:/u/progra/MyProjects/EstructuraDeDatos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ProyectoTablaAmortizacion.dir\\Archivo.cpp.obj -c D:\\u\\progra\\MyProjects\\EstructuraDeDatos\\Archivo.cpp",
+  "file": "D:/u/progra/MyProjects/EstructuraDeDatos/Archivo.cpp"
 }
 ]

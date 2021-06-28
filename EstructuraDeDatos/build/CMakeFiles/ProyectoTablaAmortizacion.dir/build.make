@@ -82,19 +82,115 @@ CMakeFiles/ProyectoTablaAmortizacion.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoTablaAmortizacion.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\u\progra\MyProjects\EstructuraDeDatos\main.cpp -o CMakeFiles\ProyectoTablaAmortizacion.dir\main.cpp.s
 
+CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/flags.make
+CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.obj: ../ListaCircularDoble.cpp
+CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\u\progra\MyProjects\EstructuraDeDatos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.obj -MF CMakeFiles\ProyectoTablaAmortizacion.dir\ListaCircularDoble.cpp.obj.d -o CMakeFiles\ProyectoTablaAmortizacion.dir\ListaCircularDoble.cpp.obj -c D:\u\progra\MyProjects\EstructuraDeDatos\ListaCircularDoble.cpp
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\u\progra\MyProjects\EstructuraDeDatos\ListaCircularDoble.cpp > CMakeFiles\ProyectoTablaAmortizacion.dir\ListaCircularDoble.cpp.i
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\u\progra\MyProjects\EstructuraDeDatos\ListaCircularDoble.cpp -o CMakeFiles\ProyectoTablaAmortizacion.dir\ListaCircularDoble.cpp.s
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/flags.make
+CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.obj: ../nodo.cpp
+CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\u\progra\MyProjects\EstructuraDeDatos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.obj -MF CMakeFiles\ProyectoTablaAmortizacion.dir\nodo.cpp.obj.d -o CMakeFiles\ProyectoTablaAmortizacion.dir\nodo.cpp.obj -c D:\u\progra\MyProjects\EstructuraDeDatos\nodo.cpp
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\u\progra\MyProjects\EstructuraDeDatos\nodo.cpp > CMakeFiles\ProyectoTablaAmortizacion.dir\nodo.cpp.i
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\u\progra\MyProjects\EstructuraDeDatos\nodo.cpp -o CMakeFiles\ProyectoTablaAmortizacion.dir\nodo.cpp.s
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/flags.make
+CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.obj: ../Fecha.cpp
+CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\u\progra\MyProjects\EstructuraDeDatos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.obj -MF CMakeFiles\ProyectoTablaAmortizacion.dir\Fecha.cpp.obj.d -o CMakeFiles\ProyectoTablaAmortizacion.dir\Fecha.cpp.obj -c D:\u\progra\MyProjects\EstructuraDeDatos\Fecha.cpp
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\u\progra\MyProjects\EstructuraDeDatos\Fecha.cpp > CMakeFiles\ProyectoTablaAmortizacion.dir\Fecha.cpp.i
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\u\progra\MyProjects\EstructuraDeDatos\Fecha.cpp -o CMakeFiles\ProyectoTablaAmortizacion.dir\Fecha.cpp.s
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/flags.make
+CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.obj: ../Persona.cpp
+CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\u\progra\MyProjects\EstructuraDeDatos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.obj -MF CMakeFiles\ProyectoTablaAmortizacion.dir\Persona.cpp.obj.d -o CMakeFiles\ProyectoTablaAmortizacion.dir\Persona.cpp.obj -c D:\u\progra\MyProjects\EstructuraDeDatos\Persona.cpp
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\u\progra\MyProjects\EstructuraDeDatos\Persona.cpp > CMakeFiles\ProyectoTablaAmortizacion.dir\Persona.cpp.i
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\u\progra\MyProjects\EstructuraDeDatos\Persona.cpp -o CMakeFiles\ProyectoTablaAmortizacion.dir\Persona.cpp.s
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/flags.make
+CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.obj: ../Tabla.cpp
+CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\u\progra\MyProjects\EstructuraDeDatos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.obj -MF CMakeFiles\ProyectoTablaAmortizacion.dir\Tabla.cpp.obj.d -o CMakeFiles\ProyectoTablaAmortizacion.dir\Tabla.cpp.obj -c D:\u\progra\MyProjects\EstructuraDeDatos\Tabla.cpp
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\u\progra\MyProjects\EstructuraDeDatos\Tabla.cpp > CMakeFiles\ProyectoTablaAmortizacion.dir\Tabla.cpp.i
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\u\progra\MyProjects\EstructuraDeDatos\Tabla.cpp -o CMakeFiles\ProyectoTablaAmortizacion.dir\Tabla.cpp.s
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/flags.make
+CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.obj: ../Archivo.cpp
+CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.obj: CMakeFiles/ProyectoTablaAmortizacion.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\u\progra\MyProjects\EstructuraDeDatos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.obj -MF CMakeFiles\ProyectoTablaAmortizacion.dir\Archivo.cpp.obj.d -o CMakeFiles\ProyectoTablaAmortizacion.dir\Archivo.cpp.obj -c D:\u\progra\MyProjects\EstructuraDeDatos\Archivo.cpp
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\u\progra\MyProjects\EstructuraDeDatos\Archivo.cpp > CMakeFiles\ProyectoTablaAmortizacion.dir\Archivo.cpp.i
+
+CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\u\progra\MyProjects\EstructuraDeDatos\Archivo.cpp -o CMakeFiles\ProyectoTablaAmortizacion.dir\Archivo.cpp.s
+
 # Object files for target ProyectoTablaAmortizacion
 ProyectoTablaAmortizacion_OBJECTS = \
-"CMakeFiles/ProyectoTablaAmortizacion.dir/main.cpp.obj"
+"CMakeFiles/ProyectoTablaAmortizacion.dir/main.cpp.obj" \
+"CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.obj" \
+"CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.obj" \
+"CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.obj" \
+"CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.obj" \
+"CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.obj" \
+"CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.obj"
 
 # External object files for target ProyectoTablaAmortizacion
 ProyectoTablaAmortizacion_EXTERNAL_OBJECTS =
 
 ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/main.cpp.obj
+ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.obj
+ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.obj
+ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.obj
+ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.obj
+ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.obj
+ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.obj
 ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/build.make
 ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/linklibs.rsp
 ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/objects1.rsp
 ProyectoTablaAmortizacion.exe: CMakeFiles/ProyectoTablaAmortizacion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\u\progra\MyProjects\EstructuraDeDatos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ProyectoTablaAmortizacion.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\u\progra\MyProjects\EstructuraDeDatos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable ProyectoTablaAmortizacion.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ProyectoTablaAmortizacion.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -1,3 +1,11 @@
+/*
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE							   
+Titulo: Proyecto tabla de amortizacion
+Autor: Cristian maranje											       
+Fecha: 27/06/2021													   
+Fecha de modificacion: 28/06/2021								   
+*/
+
 #include <iostream>
 #include <windows.h>
 #include <conio.h>

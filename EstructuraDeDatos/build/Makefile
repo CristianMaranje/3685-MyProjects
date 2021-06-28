@@ -522,6 +522,126 @@ ContinuousMemCheck/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ContinuousMemCheck.dir\build.make CMakeFiles/ContinuousMemCheck.dir/build
 .PHONY : ContinuousMemCheck/fast
 
+Archivo.obj: Archivo.cpp.obj
+.PHONY : Archivo.obj
+
+# target to build an object file
+Archivo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.obj
+.PHONY : Archivo.cpp.obj
+
+Archivo.i: Archivo.cpp.i
+.PHONY : Archivo.i
+
+# target to preprocess a source file
+Archivo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.i
+.PHONY : Archivo.cpp.i
+
+Archivo.s: Archivo.cpp.s
+.PHONY : Archivo.s
+
+# target to generate assembly for a file
+Archivo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Archivo.cpp.s
+.PHONY : Archivo.cpp.s
+
+Fecha.obj: Fecha.cpp.obj
+.PHONY : Fecha.obj
+
+# target to build an object file
+Fecha.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.obj
+.PHONY : Fecha.cpp.obj
+
+Fecha.i: Fecha.cpp.i
+.PHONY : Fecha.i
+
+# target to preprocess a source file
+Fecha.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.i
+.PHONY : Fecha.cpp.i
+
+Fecha.s: Fecha.cpp.s
+.PHONY : Fecha.s
+
+# target to generate assembly for a file
+Fecha.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Fecha.cpp.s
+.PHONY : Fecha.cpp.s
+
+ListaCircularDoble.obj: ListaCircularDoble.cpp.obj
+.PHONY : ListaCircularDoble.obj
+
+# target to build an object file
+ListaCircularDoble.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.obj
+.PHONY : ListaCircularDoble.cpp.obj
+
+ListaCircularDoble.i: ListaCircularDoble.cpp.i
+.PHONY : ListaCircularDoble.i
+
+# target to preprocess a source file
+ListaCircularDoble.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.i
+.PHONY : ListaCircularDoble.cpp.i
+
+ListaCircularDoble.s: ListaCircularDoble.cpp.s
+.PHONY : ListaCircularDoble.s
+
+# target to generate assembly for a file
+ListaCircularDoble.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/ListaCircularDoble.cpp.s
+.PHONY : ListaCircularDoble.cpp.s
+
+Persona.obj: Persona.cpp.obj
+.PHONY : Persona.obj
+
+# target to build an object file
+Persona.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.obj
+.PHONY : Persona.cpp.obj
+
+Persona.i: Persona.cpp.i
+.PHONY : Persona.i
+
+# target to preprocess a source file
+Persona.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.i
+.PHONY : Persona.cpp.i
+
+Persona.s: Persona.cpp.s
+.PHONY : Persona.s
+
+# target to generate assembly for a file
+Persona.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Persona.cpp.s
+.PHONY : Persona.cpp.s
+
+Tabla.obj: Tabla.cpp.obj
+.PHONY : Tabla.obj
+
+# target to build an object file
+Tabla.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.obj
+.PHONY : Tabla.cpp.obj
+
+Tabla.i: Tabla.cpp.i
+.PHONY : Tabla.i
+
+# target to preprocess a source file
+Tabla.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.i
+.PHONY : Tabla.cpp.i
+
+Tabla.s: Tabla.cpp.s
+.PHONY : Tabla.s
+
+# target to generate assembly for a file
+Tabla.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/Tabla.cpp.s
+.PHONY : Tabla.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -545,6 +665,30 @@ main.s: main.cpp.s
 main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/main.cpp.s
 .PHONY : main.cpp.s
+
+nodo.obj: nodo.cpp.obj
+.PHONY : nodo.obj
+
+# target to build an object file
+nodo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.obj
+.PHONY : nodo.cpp.obj
+
+nodo.i: nodo.cpp.i
+.PHONY : nodo.i
+
+# target to preprocess a source file
+nodo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.i
+.PHONY : nodo.cpp.i
+
+nodo.s: nodo.cpp.s
+.PHONY : nodo.s
+
+# target to generate assembly for a file
+nodo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoTablaAmortizacion.dir\build.make CMakeFiles/ProyectoTablaAmortizacion.dir/nodo.cpp.s
+.PHONY : nodo.cpp.s
 
 # Help Target
 help:
@@ -586,9 +730,27 @@ help:
 	@echo ... NightlyTest
 	@echo ... NightlyUpdate
 	@echo ... ProyectoTablaAmortizacion
+	@echo ... Archivo.obj
+	@echo ... Archivo.i
+	@echo ... Archivo.s
+	@echo ... Fecha.obj
+	@echo ... Fecha.i
+	@echo ... Fecha.s
+	@echo ... ListaCircularDoble.obj
+	@echo ... ListaCircularDoble.i
+	@echo ... ListaCircularDoble.s
+	@echo ... Persona.obj
+	@echo ... Persona.i
+	@echo ... Persona.s
+	@echo ... Tabla.obj
+	@echo ... Tabla.i
+	@echo ... Tabla.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... nodo.obj
+	@echo ... nodo.i
+	@echo ... nodo.s
 .PHONY : help
 
 
