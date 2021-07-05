@@ -5,13 +5,11 @@
 using namespace std;
 /*
 UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE							   
-Titulo: Listas simples 
+Titulo: Pilas 
 Autor: Cristian maranje											       
 Fecha: 08/06/2021													   
-Fecha de modificacion: 16/06/2021								   
+Fecha de modificacion: 5/07/2021								   
 */
-
-//Posibles operaciones: insertar(inserta al ultimo), insertar en una posicion, eliminar (indice del item), mostrar.
 
 class Pila
 {

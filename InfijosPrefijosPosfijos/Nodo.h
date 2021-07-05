@@ -3,11 +3,12 @@
 
 /*
 UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE							   
-Titulo: Listas simples 
+Titulo: Pilas 
 Autor: Cristian maranje											       
 Fecha: 08/06/2021													   
-Fecha de modificacion: 16/06/2021								   
+Fecha de modificacion: 5/07/2021								   
 */
+
 using namespace std;
 class Nodo
 {

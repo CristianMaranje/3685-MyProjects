@@ -2,6 +2,14 @@
 #include <string>
 #include "Pila.h"
 
+/*
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE							   
+Titulo: Transforma de infijo a prefijo 
+Autor: Cristian maranje											       
+Fecha: 03/07/2021													   
+Fecha de modificacion: 5/07/2021								   
+*/
+
 bool esOperator(char var);
 int precedencia(char var);
 bool validarFuncionTrigo(string ejercicio, int i);
@@ -14,7 +22,7 @@ string transformarAPrefijo(string ejercicio)
     for (int i = ejercicio.length() - 1; i >= 0; i--)
     {
         //inserta los digitos
-        if (isdigit(ejercicio[i])) //que tambien ingrese caracteres
+        if (isdigit(ejercicio[i])||(ejercicio[i] >= 97 && ejercicio[i] <= 122)) //que tambien ingrese caracteres
         {
             resultado += ejercicio[i];
         }
@@ -41,7 +49,6 @@ string transformarAPrefijo(string ejercicio)
             {
                 resultado += pilaPrefijo.pop();
                 pilaPrefijo.push(tmp = ejercicio[i]);
-                //i - 3;
             }
             else
             {

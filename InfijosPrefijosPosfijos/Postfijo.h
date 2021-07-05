@@ -4,6 +4,14 @@
 
 using namespace std;
 
+/*
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE							   
+Titulo: Transforma de infijo a postfijo 
+Autor: Cristian maranje											       
+Fecha: 03/07/2021													   
+Fecha de modificacion: 5/07/2021								   
+*/
+
 inline bool esOperatorPostfijo(char var);
 inline int precedenciaPostfijo(char var);
 inline bool validarFuncionTrigoPostfijo(string ejercicio, int i);
@@ -16,7 +24,7 @@ string transformarAPostfijo(string ejercicio)
     for (int i = 0; i <= ejercicio.length(); i++)
     {
         //inserta los digitos
-        if (isdigit(ejercicio[i])) //que tambien ingrese caracteres
+        if (isdigit(ejercicio[i])||(ejercicio[i] >= 97 && ejercicio[i] <= 122)) //que tambien ingrese caracteres
         {
             resultado += ejercicio[i];
         }
@@ -45,7 +53,6 @@ string transformarAPostfijo(string ejercicio)
             {
                 resultado += pilaPostfijo.pop();
                 pilaPostfijo.push(tmp = ejercicio[i]);
-                //i + 3;
             }
             else
             {
@@ -88,8 +95,6 @@ string transformarAPostfijo(string ejercicio)
                 }
             } while (tmpPop != "(");
         }
-        // cout << "resultado: " << resultado << "\nPila:\n";
-        // pilaPostfijo.mostrar();
     }
     return resultado;
 }
