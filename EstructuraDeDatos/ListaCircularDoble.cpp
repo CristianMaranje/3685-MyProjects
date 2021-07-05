@@ -112,7 +112,8 @@ void ListaCircularDoble::eliminar(long int cedula)
 }
 
 void ListaCircularDoble::imprimir()
-{	int cont= 1;
+{	int cont= 1,longitud=0;
+	string _nombre2;
 	if(primero == nullptr)
 	{
 		cout<<"No hay personas registradas.\n";
@@ -122,8 +123,12 @@ void ListaCircularDoble::imprimir()
 		fflush(stdin);
 		Fecha *tmpFechaNaci = new Fecha();
 		tmpFechaNaci = persona.getFechaNacimiento();
+		_nombre2 = tansformar( persona.getNombre());
+		longitud = longitudNombre(persona.getNombre());
 		std::cout << "\n\nPersona-> "<<cont
-		<< "\nNombre:" << persona.getNombre() 
+		<< "\nNombre:" << persona.getNombre()
+		<<"\nNombre 2: "<< _nombre2
+		<<"\nLa longitud es: " << longitud
 		<< "\nApellido:" << persona.getApellido() 
 		<< "\nCI:" << persona.getCI()
 		<< "\nTelefono:" << persona.getTelefono() 

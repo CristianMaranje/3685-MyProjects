@@ -11,7 +11,7 @@ Fecha de modificacion: 28/06/2021
 #include "Archivo.h"
 #include "Menu.h"
 #include "Validaciones.h"
-
+// usando un afuncion recursiva sacar la longitud del nombre, y usando una funcion transformar de minusculas a mayusculas o minusculas a mayusculas
 int main()
 {
 	ListaCircularDoble lista;

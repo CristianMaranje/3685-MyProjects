@@ -42,7 +42,7 @@ Persona Persona::nuevaPersona()
 
     cout << "PERSONA" << endl;
     cout << "Digite su nombre: ";
-    cin >> _nombre; //hacer que funcione con dos nombres
+    getline(cin, _nombre);
     nombre = _nombre;
 
     cout << "Digite su apellido: ";
@@ -56,7 +56,7 @@ Persona Persona::nuevaPersona()
     cout << "Ingrese su fecha de nacimiento.\n";
     fechaNacimiento = fechaNacimiento->ingresarFecha();
 
-    cout << "Digite su lugar de localizacion: ";
+    cout << "Digite su direccion: ";
     getline(cin, _localizacion);
 
     fflush(stdin);
@@ -88,8 +88,7 @@ void Persona::generarCorreo(int cont)
 {
     string localNonbre = nombre;
     string localApellido = apellido;
-        cout<<cont;
- 
+
     for (int i = 0; i < localNonbre.length(); i++)
         localNonbre[i] = tolower(localNonbre[i]);
     for (int i = 0; i < localApellido.length(); i++)
@@ -100,9 +99,7 @@ void Persona::generarCorreo(int cont)
     }
     else
     {
-
         correo = localNonbre[0] + localApellido + to_string(cont) + "@espe.edu.ec";
-
     }
 }
 

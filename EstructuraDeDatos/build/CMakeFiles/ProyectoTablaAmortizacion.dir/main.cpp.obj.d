@@ -132,6 +132,7 @@ CMakeFiles/ProyectoTablaAmortizacion.dir/main.cpp.obj: \
  D:\u\progra\MyProjects\EstructuraDeDatos\Persona.h \
  D:\u\progra\MyProjects\EstructuraDeDatos\Fecha.h \
  D:\u\progra\MyProjects\EstructuraDeDatos\Tabla.h \
+ D:\u\progra\MyProjects\EstructuraDeDatos\Validaciones.h \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/functional \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tuple \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/utility \
@@ -361,5 +362,4 @@ CMakeFiles/ProyectoTablaAmortizacion.dir/main.cpp.obj: \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ctime \
  D:\u\progra\MyProjects\EstructuraDeDatos\Menu.h \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/x86_64-w64-mingw32/include/conio.h \
- C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/x86_64-w64-mingw32/include/sec_api/conio_s.h \
- D:\u\progra\MyProjects\EstructuraDeDatos\Validaciones.h
+ C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/x86_64-w64-mingw32/include/sec_api/conio_s.h

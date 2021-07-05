@@ -7,6 +7,7 @@ Fecha de modificacion: 28/06/2021
 */
 
 #include "Nodo.h"
+#include "Validaciones.h"
 #include <iostream>
 #include <functional>
 

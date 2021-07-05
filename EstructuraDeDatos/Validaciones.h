@@ -221,3 +221,33 @@ inline bool validarDiaLaborable(int anio, int mes, int dia)
 	}
 	return false;
 }
+
+inline string tansformar(string palabra)
+{
+	for (int i = 0; i <= palabra.length(); i++)
+	{
+		if (palabra[i] >= 65 && palabra[i] <= 92)
+		{
+			palabra[i] = palabra[i] + 32;
+		}
+		else if (palabra[i] >= 97 && palabra[i] <= 122)
+		{
+			palabra[i] = palabra[i] - 32;
+		}
+	}
+	return palabra;
+}
+
+inline int longitudNombre(string nombre)
+{
+	int cont = 0;
+	while ((nombre[cont] >= 65 && nombre[cont] <= 92) || (nombre[cont] >= 97 && nombre[cont] <= 122 || nombre[cont] == 32))
+	{
+		cont++;
+		if (nombre[cont] == 32)
+		{
+			cont--;
+		}
+	}
+	return cont;
+}
