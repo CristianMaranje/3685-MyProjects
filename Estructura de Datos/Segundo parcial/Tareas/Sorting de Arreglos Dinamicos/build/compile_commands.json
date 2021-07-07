@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/u/progra/Estructura_de_Datos/deberes/Sorting de Arreglos Dinamicos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\SoringConArreglosDinamicos.dir\\main.cpp.obj -c \"D:\\u\\progra\\Estructura_de_Datos\\deberes\\Sorting de Arreglos Dinamicos\\main.cpp\"",
+  "file": "D:/u/progra/Estructura_de_Datos/deberes/Sorting de Arreglos Dinamicos/main.cpp"
+},
+{
+  "directory": "D:/u/progra/Estructura_de_Datos/deberes/Sorting de Arreglos Dinamicos/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\SoringConArreglosDinamicos.dir\\Vector.cpp.obj -c \"D:\\u\\progra\\Estructura_de_Datos\\deberes\\Sorting de Arreglos Dinamicos\\Vector.cpp\"",
+  "file": "D:/u/progra/Estructura_de_Datos/deberes/Sorting de Arreglos Dinamicos/Vector.cpp"
+}
+]
