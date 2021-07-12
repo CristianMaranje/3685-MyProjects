@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/u/progra/Estructura_de_Datos/trabajos en clase/03 ColaDeClientes/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ColasEnCajas.dir\\main.cpp.obj -c \"D:\\u\\progra\\Estructura_de_Datos\\trabajos en clase\\03 ColaDeClientes\\main.cpp\"",
+  "file": "D:/u/progra/Estructura_de_Datos/trabajos en clase/03 ColaDeClientes/main.cpp"
+},
+{
+  "directory": "D:/u/progra/Estructura_de_Datos/trabajos en clase/03 ColaDeClientes/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ColasEnCajas.dir\\Client.cpp.obj -c \"D:\\u\\progra\\Estructura_de_Datos\\trabajos en clase\\03 ColaDeClientes\\Client.cpp\"",
+  "file": "D:/u/progra/Estructura_de_Datos/trabajos en clase/03 ColaDeClientes/Client.cpp"
+},
+{
+  "directory": "D:/u/progra/Estructura_de_Datos/trabajos en clase/03 ColaDeClientes/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ColasEnCajas.dir\\Cashier.cpp.obj -c \"D:\\u\\progra\\Estructura_de_Datos\\trabajos en clase\\03 ColaDeClientes\\Cashier.cpp\"",
+  "file": "D:/u/progra/Estructura_de_Datos/trabajos en clase/03 ColaDeClientes/Cashier.cpp"
+},
+{
+  "directory": "D:/u/progra/Estructura_de_Datos/trabajos en clase/03 ColaDeClientes/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ColasEnCajas.dir\\Movements.cpp.obj -c \"D:\\u\\progra\\Estructura_de_Datos\\trabajos en clase\\03 ColaDeClientes\\Movements.cpp\"",
+  "file": "D:/u/progra/Estructura_de_Datos/trabajos en clase/03 ColaDeClientes/Movements.cpp"
+},
+{
+  "directory": "D:/u/progra/Estructura_de_Datos/trabajos en clase/03 ColaDeClientes/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\ColasEnCajas.dir\\Queue.cpp.obj -c \"D:\\u\\progra\\Estructura_de_Datos\\trabajos en clase\\03 ColaDeClientes\\Queue.cpp\"",
+  "file": "D:/u/progra/Estructura_de_Datos/trabajos en clase/03 ColaDeClientes/Queue.cpp"
+}
+]
