@@ -15,4 +15,4 @@ class Vector{
         Vector();
         int* getVector();
         void setVector(int* _vector);
-};       
+};
