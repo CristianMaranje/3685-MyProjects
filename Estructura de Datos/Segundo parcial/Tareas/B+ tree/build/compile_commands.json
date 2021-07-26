@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/u/progra/Estructura_de_Datos/deberes/B+ tree/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\BPlusTree.dir\\main.cpp.obj -c \"D:\\u\\progra\\Estructura_de_Datos\\deberes\\B+ tree\\main.cpp\"",
+  "file": "D:/u/progra/Estructura_de_Datos/deberes/B+ tree/main.cpp"
+},
+{
+  "directory": "D:/u/progra/Estructura_de_Datos/deberes/B+ tree/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\BPlusTree.dir\\BPlusTree.cpp.obj -c \"D:\\u\\progra\\Estructura_de_Datos\\deberes\\B+ tree\\BPlusTree.cpp\"",
+  "file": "D:/u/progra/Estructura_de_Datos/deberes/B+ tree/BPlusTree.cpp"
+},
+{
+  "directory": "D:/u/progra/Estructura_de_Datos/deberes/B+ tree/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\BPlusTree.dir\\BPlusNode.cpp.obj -c \"D:\\u\\progra\\Estructura_de_Datos\\deberes\\B+ tree\\BPlusNode.cpp\"",
+  "file": "D:/u/progra/Estructura_de_Datos/deberes/B+ tree/BPlusNode.cpp"
+}
+]
